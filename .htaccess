@@ -16,6 +16,6 @@ Allow from 192.168.0.0/16
 
 ## Donated by Kenny Kurtz
 
-php_flag magic_quotes_gpc off
-php_flag magic_quotes_sybase off
-php_flag magic_quotes_runtime off
+#php_flag magic_quotes_gpc off
+#php_flag magic_quotes_sybase off
+#php_flag magic_quotes_runtime off
